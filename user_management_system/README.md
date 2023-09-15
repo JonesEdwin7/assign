@@ -120,20 +120,7 @@ The project's database design includes tables for user management, with fields s
 - `dob` (Date of Birth)
 - Timestamps for record creation and modification
 
-### User Table
 
-| Column Name    | Data Type      | Description                        |
-| -------------- | -------------- | ---------------------------------- |
-| userId         | INT            | Unique identifier for each user    |
-| userName       | VARCHAR(255)   | User's full name                   |
-| type           | ENUM           | User type (ADMIN, INTERNAL, EXTERNAL) |
-| userEmail      | VARCHAR(255)   | User's email address               |
-| userContactNo  | VARCHAR(12)    | User's phone number (e.g., 911234567890) |
-| dob            | DATE           | User's date of birth               |
-| created_at     | TIMESTAMP      | Timestamp of record creation       |
-| updated_at     | TIMESTAMP      | Timestamp of record modification   |
-
-The "User" table stores user-related information, including user IDs, names, types, contact information, date of birth, and timestamps for record creation and modification.
 
 This database design ensures data integrity and provides a structured approach to managing user information within the application.
 
@@ -214,9 +201,6 @@ The database design includes tables for user management, featuring fields like `
 
 The User Management project serves as a practical example of Spring Boot application development, demonstrating best practices in API design and user data management. It offers a solid foundation for building and extending user management systems in various applications.
 
-<!-- License -->
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 <!-- Acknowledgments -->
 ## Acknowledgments
@@ -224,7 +208,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <!-- Contact -->
 ## Contact
-For questions or feedback, please contact [Amit Ashok Swain](mailto:business.amitswain@gmail.com).
+For questions or feedback, please contact [Jones Edwin](mailto:jonesedwint@gmail.com).
 
 
 
