@@ -2,7 +2,7 @@
 ___ 
 <p align="center">
 <a href="Java url">
-    <img alt="Java" src="https://img.shields.io/badge/Java->=8-darkblue.svg" />
+    <img alt="Java" src="https://icon-icons.com/icon/java-original-logo/146458" />
 </a>
 <a href="Maven url" >
     <img alt="Maven" src="https://img.shields.io/badge/maven-3.0.5-brightgreen.svg" />
